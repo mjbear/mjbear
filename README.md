@@ -23,6 +23,22 @@ with Python at present.
   </picture>
 </p>
 
+<!---
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbear&layout=donut-vertical&theme=dark&count_private=true&hide=c%23"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbear&layout=donut-vertical&hide=c%23"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbear&layout=donut-vertical&hide=c%23" />
+  </picture>
+</p>
+--->
+
 :medal_sports: As a volunteer maintainer for the [ntc-templates](https://github.com/networktocode/ntc-templates)
 collection of [TestFSM](https://github.com/google/textfsm) templates: I review,
 provide feeback, guide contributors, and resolve merge conflicts to prepare pull
