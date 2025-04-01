@@ -1,13 +1,29 @@
 # Hello there! :wave:
 
-:telescope: I contribute and collaborate on GitHub to help out, utilize what I'm
-learning, and continue learning new things. I've met some bright and talented
-people in the process! :pray:
+:telescope: I contribute and collaborate in various online presences to help
+out, utilize what I'm learning, and continue learning new things.
 
-:seedling: I'm mostly focused on utilizing and continually learning automation ... primarily
-with Python at present.
+I've met some bright, passionate, and talented people in the process! :bow:
 
-## Stats:
+:seedling: I'm mostly focused on utilizing and continually learning automation
+... primarily with Python at present.
+
+<p align="center">
+  <a href="https://github.com/mjbear" >
+    <picture>
+      <source srcset="images/github-mark.svg" width="32px"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <source srcset="images/github-mark-white.svg" width="32px"
+        media="(prefers-color-scheme: dark)" />
+      <img alt="mjbear GitHub Profile" width="32px" src="images/github-mark.svg" />
+    </picture>
+  GitHub</a>
+    &nbsp;  &nbsp; |
+  <a href="https://gitlab.com/mjbear" >
+    <img alt="mjbear GitLab Profile" width="64px" src="images/gitlab-logo-500.svg" />GitLab</a>
+</p>
+
+## Stats
 
 <p align="center">
   <picture>
@@ -47,7 +63,7 @@ requests for successful inclusion.
 :people_holding_hands: I'm in search of new projects to contribute to, which
 over time could improve my rating. :man_shrugging: :sweat_smile:
 
-## I enjoy using/implementing, designing, and learning about:
+## I enjoy using/implementing, designing, and learning about
 
 * :arrows_counterclockwise: (Computer) Network Engineering
 * Unix-like OSes
@@ -56,17 +72,21 @@ over time could improve my rating. :man_shrugging: :sweat_smile:
    * :sweat_smile: _(likely more once I give them fair usage! :blowfish:
      :triangular_flag_on_post:)_
 * Automation
-   * :octocat: GitHub / GitHub Actions CI
+   * :keyboard: GitHub / GitHub Actions CI
    * :snake: Python
    * :a: Ansible
    * :small_red_triangle: Nornir
-   * YAML
+   * :shell: Shell Scripting (ex: bash)
+   * :atom: YAML
+
+and much, much more. :sweat_smile:
 
 ## Beyond technology
 
 I find some peace with nature in the outdoors :mountain_snow: amongst the plants
 :potted_plant:, trees :evergreen_tree: :deciduous_tree:, and wildlife :bear:
-:deer: :eagle: :bird: :rabbit2: :chipmunk: :fox_face: :wolf: :lizard: :fish:.
+:deer: :eagle: :bird: :rabbit2: :chipmunk: :fox_face: :wolf: :frog: :lizard:
+:turtle: :fish:.
 
 ## :mailbox: Contact me
 
