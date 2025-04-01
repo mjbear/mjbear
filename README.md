@@ -55,7 +55,7 @@ I've met some bright, passionate, and talented people in the process! :bow:
 </p>
 --->
 
-:medal_sports: As a volunteer maintainer for the [ntc-templates](https://github.com/networktocode/ntc-templates)
+:trophy: As a volunteer maintainer for the [ntc-templates](https://github.com/networktocode/ntc-templates)
 collection of [TestFSM](https://github.com/google/textfsm) templates: I review,
 provide feeback, guide contributors, and resolve merge conflicts to prepare pull
 requests for successful inclusion.
