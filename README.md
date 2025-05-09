@@ -64,10 +64,14 @@ requests for successful inclusion.
 :people_holding_hands: I'm in search of new projects to contribute to, which
 over time could improve my rating. :man_shrugging: :sweat_smile:
 
+:raised_hand: If my open source work has helped you, please consider saying
+thank you by supporting me via [Buymeacoffee](https://www.buymeacoffee.com/mjbear).
+Much appreciated!
+
 <p align="center">
-  <a href="https://buymeacoffee.com/mjbear">
+  <a href="https://www.buymeacoffee.com/mjbear" target="_blank">
   <picture>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhzZWJvc2RjcW5neTc1ZmVlYWN3a3J0MXU0MDN6Nmp0OWY0Y2sxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o7RZbs4KAA6tvM4H6j/giphy.gif" alt="Support mjbear's open source work via buymeacoffee.com" width="360" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217px" alt="Support mjbear's open source work via buymeacoffee.com" title="Support mjbear's open source work via buymeacoffee.com">
   </picture>
   </a>
 </p>
