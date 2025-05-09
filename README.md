@@ -1,7 +1,8 @@
 # Hello there! :wave:
 
-:telescope: I contribute and collaborate in various online presences to help
-out, utilize what I'm learning, and continue learning new things.
+:telescope: I contribute and collaborate to open source projects in various
+online presences to help out others, utilize what I'm learning, and continue
+learning new things.
 
 I've met some bright, passionate, and talented people in the process! :bow:
 
@@ -35,7 +36,7 @@ I've met some bright, passionate, and talented people in the process! :bow:
       srcset="https://github-readme-stats.vercel.app/api?username=mjbear&show_icons=true&count_private=true&rank_icon=github"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=mjbear&show_icons=true&count_private=true&rank_icon=github" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mjbear&show_icons=true&count_private=true&rank_icon=github" alt="mjbear's GitHub Stats" />
   </picture>
 </p>
 
@@ -62,6 +63,14 @@ requests for successful inclusion.
 
 :people_holding_hands: I'm in search of new projects to contribute to, which
 over time could improve my rating. :man_shrugging: :sweat_smile:
+
+<p align="center">
+  <a href="https://buymeacoffee.com/mjbear">
+  <picture>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhzZWJvc2RjcW5neTc1ZmVlYWN3a3J0MXU0MDN6Nmp0OWY0Y2sxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o7RZbs4KAA6tvM4H6j/giphy.gif" alt="Support mjbear's open source work via buymeacoffee.com" width="360" />
+  </picture>
+  </a>
+</p>
 
 ## I enjoy using/implementing, designing, and learning about
 
