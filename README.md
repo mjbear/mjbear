@@ -65,12 +65,15 @@ requests for successful inclusion.
 over time could improve my rating. :man_shrugging: :sweat_smile:
 
 :raised_hand: If my open source work has helped you, please consider saying
-thank you by supporting me via [Buymeacoffee](https://www.buymeacoffee.com/mjbear).
+thank you by supporting me via [Ko-fi](https://ko-fi.com/mjbear) or [Buy Me a Coffee](https://www.buymeacoffee.com/mjbear).
 Much appreciated!
 
 <p align="center">
+  <a href="https://ko-fi.com/mjbear" target="_blank">
+    <img src="https://help.ko-fi.com/hc/article_attachments/11833788361117" alt="Support mjbear's open source work via ko-fi.com" title="Support mjbear's open source work via ko-fi.com"/>
+  </a>
   <a href="https://www.buymeacoffee.com/mjbear" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217px" alt="Support mjbear's open source work via buymeacoffee.com" title="Support mjbear's open source work via buymeacoffee.com">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="217px" alt="Support mjbear's open source work via buymeacoffee.com" title="Support mjbear's open source work via buymeacoffee.com"/>
   </a>
 </p>
 
