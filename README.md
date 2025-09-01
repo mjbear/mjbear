@@ -18,11 +18,11 @@ learning new things.
         media="(prefers-color-scheme: dark)" />
       <img alt="mjbear GitHub Profile" width="32px" src="images/github-mark.svg" />
     </picture>
-  GitHub</a>
+  [GitHub]</a>
     &nbsp;  &nbsp; |
   <a href="https://gitlab.com/mjbear" >
     <img alt="mjbear GitLab Profile" width="64px" src="images/gitlab-logo-500.svg" />
-  GitLab</a>
+  [GitLab]</a>
 </p>
 
 ## Stats
