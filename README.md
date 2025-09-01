@@ -1,10 +1,10 @@
 # Hello there! :wave:
 
-:telescope: I contribute and collaborate to open source projects in various
+:microscope: I contribute and collaborate to open source projects in various
 online presences to help out others, utilize what I'm learning, and continue
 learning new things.
 
-I've met some bright, passionate, and talented people in the process! :bow:
+:people_holding_hands: I've met some bright, passionate, and talented people in the process! :bow:
 
 :seedling: I'm mostly focused on utilizing and continually learning automation
 ... primarily with Python at present.
@@ -38,34 +38,35 @@ I've met some bright, passionate, and talented people in the process! :bow:
     />
     <img src="https://github-readme-stats.vercel.app/api?username=mjbear&show_icons=true&count_private=true&rank_icon=github" alt="mjbear's GitHub Stats" />
   </picture>
-</p>
 
-<!---
-<p align="center">
   <picture>
+    <!-- srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbear&layout=donut&theme=dark&count_private=true&hide=c%23" -->
+    <!-- srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbear&layout=compact&theme=dark&count_private=true&hide=c%23&hide_progress=true" -->
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbear&layout=donut-vertical&theme=dark&count_private=true&hide=c%23"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbear&layout=compact&theme=dark&count_private=true&hide=c%23"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbear&layout=donut-vertical&hide=c%23"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbear&layout=compact&count_private=true&hide=c%23"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbear&layout=donut-vertical&hide=c%23" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjbear&layout=compact&count_private=true&hide=c%23" />
   </picture>
 </p>
---->
 
 :trophy: As a volunteer maintainer for the [ntc-templates](https://github.com/networktocode/ntc-templates)
-collection of [TestFSM](https://github.com/google/textfsm) templates: I review,
-provide feeback, guide contributors, and resolve merge conflicts to prepare pull
+collection of [TextFSM](https://github.com/google/textfsm) templates: I review,
+provide feedback, guide contributors, and resolve merge conflicts to prepare pull
 requests for successful inclusion.
 
-:people_holding_hands: I'm in search of new projects to contribute to, which
-over time could improve my rating. :man_shrugging: :sweat_smile:
+:telescope: I'm in search of new projects to contribute to, which
+over time will provide challenges :medal_sports:, improve my knowledge :brain:,
+and my rating. :man_shrugging: :sweat_smile:
 
-:raised_hand: If my open source work has helped you, please consider saying
-thank you by supporting me via [Ko-fi](https://ko-fi.com/mjbear) or [Buy Me a Coffee](https://www.buymeacoffee.com/mjbear).
+:handshake: If my open source work has helped you :confetti_ball:, please
+consider saying thank you by supporting me via [Ko-fi](https://ko-fi.com/mjbear)
+or [Buy Me a Coffee](https://www.buymeacoffee.com/mjbear).
+
 Much appreciated!
 
 <p align="center">
@@ -85,12 +86,13 @@ Much appreciated!
    * :smiling_imp: FreeBSD
    * :sweat_smile: _(likely more once I give them fair usage! :blowfish:
      :triangular_flag_on_post:)_
-* Automation
-   * :keyboard: GitHub / GitHub Actions CI
+* Automation / Development
+   * :keyboard: GitHub Actions CI / GitLab Pipelines
    * :snake: Python
    * :a: Ansible
    * :small_red_triangle: Nornir
    * :shell: Shell Scripting (ex: bash)
+   * :mount_fuji: Terraform
    * :atom: YAML
 
 and much, much more. :sweat_smile:
