@@ -21,7 +21,8 @@ learning new things.
   GitHub</a>
     &nbsp;  &nbsp; |
   <a href="https://gitlab.com/mjbear" >
-    <img alt="mjbear GitLab Profile" width="64px" src="images/gitlab-logo-500.svg" />GitLab</a>
+    <img alt="mjbear GitLab Profile" width="64px" src="images/gitlab-logo-500.svg" />
+  GitLab</a>
 </p>
 
 ## Stats
